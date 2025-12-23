@@ -16,9 +16,9 @@ Tip: Replace placeholders like YOUR_LINK_HERE.
 
 ---
 
-## 🚀 What I do
-- **Backend development** focused on reliability, observability, and “it doesn’t break in prod” energy  
-- **AI-enabled workflows** (automation, orchestration, and practical use-cases, not just demos)
+## 🔵 What I do
+- **Backend development** focused on reliability, observability, and “it doesn’t break in prod.”
+- **AI-enabled workflows** (automation, orchestration, and practical use-cases)
 - **API integrations** end-to-end: auth, webhooks, retries, pagination, rate limits, error handling  
 - Experience integrating with tools like **Box (Cloud Storage)**, **Salesforce**, **Dialpad**, and project/ops platforms
 
@@ -29,12 +29,19 @@ Tip: Replace placeholders like YOUR_LINK_HERE.
 **Web:** HTML, CSS  
 **Strengths:** API design/integration, automation, debugging, production support
 
-> I’m not married to a stack, I’m married to shipping solutions.
-
 ---
 
-## 🧪 Featured project
-### 🏠 Casa Home Lab (CasaOS)
+## 🧪 Project Highlights
+
+### 🤖 AI-Powered Metadata Scanner (Work Project | Veterans Guardian)
+Using Box's cloud storage and event monitoring, directly on upload, we use AI to scan documents and apply metadata.
+
+**Highlights:**
+- Real Time Monitoring
+- AI Metadata extraction and application
+- Statistical reporting and self-monitoring.
+
+### 🏠 Home Lab (Personal Project)
 A personal homelab setup where I experiment with automation, services, and self-hosting. Now I’m building toward **home-lab AI**.
 
 **Highlights:**
@@ -44,17 +51,9 @@ A personal homelab setup where I experiment with automation, services, and self-
 
 ---
 
-## 🌱 What I’m learning next
+## 📚 What I’m learning next
 ### 🤖 Home Lab AI
 I’m working toward running AI tools and workflows inside my homelab, focusing on practical, useful automation.
-
----
-
-## 🎮 Outside of coding
-When I’m not building things, I’m probably:
-- gaming 🎮  
-- painting 🎨  
-- or at the gym 🏋️
 
 ---
 
